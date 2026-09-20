@@ -358,6 +358,9 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Instatus Statuspages](https://instatus.com) - Quick and beautiful status page.
 - [Cachet](https://cachethq.io/)
 
+- [NextReset](https://nextreset.ai/) - Independent AI service incident timeline with official source links and separate Codex reset history.
+
+
 ## Internal Developer Portal
 - [Port](https://www.getport.io/)
 - [Backstage Software Catalog](https://backstage.io/)
